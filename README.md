@@ -1,4 +1,4 @@
-# [react-redux-crud](https://github.com/tb/react-redux-crud)
+# [react-redux-crud]
  
 React + Redux CRUD demo
  
@@ -21,7 +21,7 @@ React + Redux CRUD demo
  
 ## Running
 
-    git clone https://github.com/tb/react-redux-crud
+    git clone https://github.com/nathanielkennedy86/react-redux-crud
     npm i
     npm run server-api
     npm start
