@@ -1,4 +1,4 @@
-# [react-redux-crud]
+# react-redux-crud
  
 React + Redux CRUD demo
  
